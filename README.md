@@ -19,13 +19,13 @@ Retail management needed a consolidated view of sales performance to answer key 
 Without a centralized, filterable dashboard, this data was scattered across raw sales records, making it difficult to draw quick, actionable insights.
 
 ## Objectives
-1. Quantify overall sales performance by consolidating revenue, sales, and quantity into a single view (Total Revenue $322,750; Total Sales $307,381; Total Quantity 5,504).
-2. Determine how revenue is distributed across cities to assess regional balance (Naypyitaw 34%, Mandalay 33%, Yangon 33%).
-3. Compare revenue contribution between Member and Normal customers to evaluate the impact of loyalty status on spending (Member 50.05% vs Normal 49.95%).
-4. Rank product line performance by revenue to identify top and bottom performing categories (Food and beverages $56,145 and Sports and travel $55,123 as top performers; Health and beauty $49,194 as the lowest).
-5. Break down revenue by gender across product lines to uncover purchasing pattern differences between female and male customers (e.g. females outspending males on Fashion accessories and Health and beauty; males outspending females on Home and lifestyle).
-6. Cross reference revenue by product line and city to reveal localized demand patterns (e.g. Home and lifestyle strongest in Yangon at $22,200; Food and beverages strongest in Naypyitaw at $23,767).
-7. Enable dynamic filtering by Customer type, Product line, Gender, City, and Branch so stakeholders can isolate any of the above segments on demand.
+1. Quantify overall sales performance by consolidating revenue, sales, and quantity into a single view .
+2. Determine how revenue is distributed across cities to assess regional balance .
+3. Compare revenue contribution between Member and Normal customers to evaluate the impact of loyalty status on spending .
+4. Rank product line performance by revenue to identify top and bottom performing categories .
+5. Break down revenue by gender across product lines to uncover purchasing pattern differences between female and male customers .
+6. Cross reference revenue by product line and city to reveal localized demand patterns .
+
 
 ## Insights
 - **Total Revenue**: $322,750 | **Total Sales**: $307,381 | **Total Quantity**: 5,504
