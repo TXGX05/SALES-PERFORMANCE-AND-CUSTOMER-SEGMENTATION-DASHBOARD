@@ -6,7 +6,7 @@
 # Sales Performance and Customer Segmentation Dashboard
 
 ## Introduction
-This project presents an interactive Excel dashboard built to analyze retail sales performance across branches, product lines, and customer demographics. The dashboard consolidates transactional data into visual summaries — enabling stakeholders to explore revenue trends by city, customer type, gender, and product category through dynamic slicers and charts.
+This project presents an interactive Excel dashboard built to analyze retail sales performance across branches, product lines, and customer demographics. The dashboard consolidates transactional data into visual summaries enabling stakeholders to explore revenue trends by city, customer type, gender, and product category through dynamic slicers and charts.
 
 ## Problem Statement
 Retail management needed a consolidated view of sales performance to answer key business questions:
